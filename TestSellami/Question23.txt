@@ -1,0 +1,7 @@
+Both methods will sacrifice some "clearness" in order to have a more blurry, but less noisy, image.
+To observe that we can use the algorithm on a clear image.
+The second algorithm will demand a little more time, it has a more 'intense' anti-noise effect, 
+without blurring more the image, but it creates a 'pixelated' effect:
+
+Note: For the second noise remover algorithm, I chose to use it on every other pixel, because otherwise it creates a very ugly effect on the image 
+(due to the fact that an alteration on a pixel n will alterate the pixel n+1)

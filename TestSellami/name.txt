@@ -1,0 +1,2 @@
+Generate gratings (Question 1)
+Noise Remover (Question 2.1 & 2.2)
